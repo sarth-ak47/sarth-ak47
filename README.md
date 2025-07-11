@@ -66,11 +66,5 @@ Hi! I'm <strong>Sarthak</strong>, a passionate and curious data science student 
 
 ---
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sarth-ak47&icon=0&color=0" alt="Profile Visit Counter" />
-  </a>
-</div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
